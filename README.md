@@ -1,7 +1,6 @@
 # MonoSpec
 
-**Recalibratable and uncertainty-aware acoustic monitoring of boiling heat flux with a spectrum-conditioned monotone network<img width="432" height="115" alt="image" src="https://github.com/user-attachments/assets/628c42d5-fe20-4da1-9598-c0296c7c48c6" />
-**
+**Recalibratable and uncertainty-aware acoustic monitoring of boiling heat flux with a spectrum-conditioned monotone network**
 
 ## Overview
 
