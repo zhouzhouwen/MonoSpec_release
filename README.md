@@ -8,8 +8,8 @@ The critical heat flux (CHF) bounds the safe operation of boiling-cooled energy 
 
 A hypernetwork reads the level-free spectral shape of the hydrophone signal and sets the coefficients of a quantile law that is strictly increasing in the sound level. The sensor gain therefore reaches every output through one monotone path, so a single record of known heat flux identifies a gain offset uniquely. Grouped conformal calibration adds the 90% prediction intervals.
 
-The demonstration is accessible at  https://comparing-shelter-lunch-baltimore.trycloudflare.com/
-
+The demonstration is accessible at [ https://comparing-shelter-lunch-baltimore.trycloudflare.com/
+](https://break-hundreds-logging-devel.trycloudflare.com)
 
 MonoSpec is evaluated under two protocols:
 
